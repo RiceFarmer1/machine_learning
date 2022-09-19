@@ -1,0 +1,25 @@
+A computer mouse is a hand-held pointing device that detects two-dimensional motion relative to a surface.
+The first public demonstration of a mouse controlling a computer system was in 1968.
+The earliest known written use of the term mouse in reference to a computer pointing device is in Bill English's July 1965 publication, "Computer-Aided Display Control".
+Douglas Engelbart of the Stanford Research Institute has been credited in published books by Thierry Bardini, Paul Ceruzzi, Howard Rheingold, and several others as the inventor of the computer mouse.
+They christened the device the mouse as early models had a cord attached to the rear part of the device which looked like a tail.
+In any event, the invention of the mouse was just a small part of Engelbart's much larger project of augmenting human intellect.
+The first mouse, a bulky device used two potentiometers perpendicular to each other and connected to wheels: the rotation of each wheel translated into motion along one axis.
+The Xerox Alto was one of the first computers designed for individual use in 1973 and is regarded as the first modern computer to use a mouse.
+The third marketed version of an integrated mouse shipped as a part of a computer and intended for personal computer navigation came with the Xerox 8010 Star in 1981.
+By 1982, the Xerox 8010 was probably the best-known computer with a mouse.
+However, the mouse remained relatively obscure until the appearance of the Macintosh 128K in 1984, and of the Amiga 1000 and the Atari ST in 1985.
+A mouse typically controls the motion of a pointer in two dimensions in a graphical user interface.
+The mouse turns movements of the hand backward and forward, left and right into equivalent electronic signals that in turn are used to move the pointer.
+The relative movements of the mouse on the surface are applied to the position of the pointer on the screen, which signals the point where actions of the user take place, so hand movements are replicated by the pointer.
+Users can also employ mice gesturally, meaning that a stylized motion of the mouse cursor itself, called a "gesture", can issue a command or map to a specific action.
+For example, in the first-person shooter genre of games, players usually employ the mouse to control the direction in which the virtual player's "head" faces.
+The ball mouse replaced the external wheels with a single ball that could rotate in any direction.
+This variant of the mouse resembled an inverted trackball and became the predominant form used with personal computers throughout the 1980s and 1990s.
+Early optical mice relied entirely on one or more light-emitting diodes and an imaging array of photodiodes to detect movement relative to the underlying surface, eschewing the internal moving parts a mechanical mouse uses in addition to its optics.
+Later, more surface-independent optical mice use an optoelectronic sensor to take successive images of the surface on which the mouse operates.
+This wireless mouse was worn on a ring around a finger, which enabled the thumb to access three buttons.
+A contactless sensor design uses a magnetic sensor array for sensing three aches translation and two optical mouse sensors for three aches rotation.
+Such a mouse can augment user-interfaces with haptic feedback, such as giving feedback when crossing a window boundary.
+A mouse may be angled from the thumb downward to the opposite side – this is known to reduce wrist pronation.E
+Ergonomic quality is also an important factor in gaming mouse.
